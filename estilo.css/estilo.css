@@ -1,5 +1,7 @@
 body{
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Times New Roman', Times, serif;
+    background-image:url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/uD8Hd-O/abstract-white-transparent-waves-in-motion-at-the-top-and-bottom-on-gradient-blue-background-loop-animation_4vowt3ocg__F0000.png);  
+  
 }
 
 header{
@@ -7,6 +9,7 @@ header{
     flex-direction: column;
     align-items: center;
 }
+
 
 #login{
     align-self: flex-end;
@@ -29,13 +32,34 @@ header{
 
 }
 #menu a{
-    margin-left: 20%;
+    margin-left: 12%;
     justify-content: space-around;
-
-
+    text-decoration: none;
+    
 }
 img{
     width: 600px;
     height: 310px;
     align-content: center;
+    margin-top: 100px;
+    margin-bottom: 15px;
 }
+h2{
+    text-align: center;
+    margin-top: 50px;
+} 
+
+p{
+    padding-left: 3%;
+    padding-right: 1,5%;
+}
+
+footer{
+    padding: 10px;
+    text-align: center;
+    margin-top: 30px;
+    margin-inline-end: 0;
+   </footer>
+    
+
+    
